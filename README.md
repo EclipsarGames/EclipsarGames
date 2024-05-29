@@ -4,4 +4,4 @@ EclipsarGames is a collection of unblocked games websites where multiple unblock
 1. InfinityUnblock
 2. Umbrion
 ## Personal Account
-@KnightOChaos
+[@KnightOChaos](https://github.com/KnightOChaos)
