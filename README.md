@@ -7,4 +7,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=EclipsarGames&show=stars%20earned,commits,%20issues,%20contributed&type=bar)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EclipsarGames&theme=dark&hide_border=false)<br/>
-<h4>[Personal Account](https://github.com/KnightOChaos)</h4>
+<h4>[@KnightOChaos](https://github.com/KnightOChaos)</h4>
