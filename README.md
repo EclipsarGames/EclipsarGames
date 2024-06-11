@@ -8,6 +8,8 @@
 ## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=EclipsarGames&show=stars%20earned,commits,%20issues,%20contributed&type=bar)
-![](https://github-readme-streak-stats.herokuapp.com/?user=EclipsarGames&theme=dark&hide_border=false)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=EclipsarGames&theme=dark&hide_border=false)
+## Discord
+[EclipsarHub](https://discord.gg/Y8rX3hkP3B)
 ## Personal Account:
 [@KnightOChaos](https://github.com/KnightOChaos)
